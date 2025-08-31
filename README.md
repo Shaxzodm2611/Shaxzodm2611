@@ -1,9 +1,49 @@
-Hi, I'm Shaxzod Mirkomilov, and am currently pursueing a B.Eng in Electrical Engineering at Toronto Metropolitan University (Formerly Ryerson), I am in interested in the cross-section between
-programming and hardware. I am currently trying to learn PCB design, and bare-metal C programming: specifically on the STM32 at the moment. This Github will serve as a way to keep a respistory of all the projects
-I work on regardless on whether they are functional or not. 
+# Hi there, I'm Shaxzod Mirkomilov 👋
 
+### 🔧 Validation Intern at AMD | Aspiring IC Designer | 4th-Year EE Student
 
-<!---
-Shaxzodm2611/Shaxzodm2611 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm currently diving deep into High-Speed I/O (HSIO) compliance validation at AMD, applying my knowledge in real-world scenarios. As I approach my final year in Electrical Engineering, I'm exploring various facets of STEM, with a keen interest in Integrated Circuit (IC) design.
+
+---
+
+### 🛠️ Skills & Tools
+
+- **PCB Design**: Altium Designer
+- **Programming**: Python
+- **Web Development**: Django, FastAPI, React
+- **Embedded Systems**: STM32, Microcontrollers
+
+---
+
+### 📚 Current Focus
+
+- **Textbook**: *Microelectronic Circuits* by Sedra & Smith
+- **Topics**: Transistor theory, amplifier design, analog circuits
+
+---
+
+### 📂 Projects
+
+- [Sedra-Smith](https://github.com/Shaxzodm2611/Sedra-Smith): My journey through Sedra & Smith's textbook, documenting notes and insights.
+- [Portfolio Website](https://github.com/Shaxzodm2611/Portfolio-Website): A work-in-progress personal website showcasing my projects and experiences.
+- [STM32 Manual Digital Power Control EVAL BOARD](https://github.com/Shaxzodm2611/STM32_Manual-Digital_PowerControl_EVAL_BOARD): Exploring manual digital power control using STM32 microcontrollers.
+
+---
+
+### 🌐 Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/shaxzod-mirkomilov-9541a8267/)
+
+---
+
+### 📈 GitHub Stats
+
+![Shaxzod's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shaxzodm2611&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
+
+---
+
+> "Engineering is not only the study of 45 subjects but the training of the mind to think." – *A.P.J. Abdul Kalam*
+
+---
+
+Feel free to explore my repositories and connect with me. I'm always open to discussions and collaborations in the realm of electronics and software development.
