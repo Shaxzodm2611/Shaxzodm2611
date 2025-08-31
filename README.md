@@ -42,8 +42,4 @@ I'm currently diving deep into High-Speed I/O (HSIO) compliance validation at AM
 
 ---
 
-> "Engineering is not only the study of 45 subjects but the training of the mind to think." – *A.P.J. Abdul Kalam*
-
----
-
 Feel free to explore my repositories and connect with me. I'm always open to discussions and collaborations in the realm of electronics and software development.
