@@ -36,10 +36,4 @@ I'm currently diving deep into High-Speed I/O (HSIO) compliance validation at AM
 
 ---
 
-### 📈 GitHub Stats
-
-![Shaxzod's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shaxzodm2611&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
-
----
-
 Feel free to explore my repositories and connect with me. I'm always open to discussions and collaborations in the realm of electronics and software development.
